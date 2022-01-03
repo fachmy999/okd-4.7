@@ -1,4 +1,4 @@
-zone "okd.local" {
+zone "ocp.local" {
     type master;
     file "/etc/named/zones/db.okd.local"; # zone file path
 };
